@@ -1,7 +1,7 @@
 # fabric-docker-compose-svt
 
 ## Cloning the repository:
-Clone the repository under fabric/examples using `git clone https://github.com/suryalnvs/fabric-docker-compose-svt`
+Clone the repository under fabric/examples using `git clone https://github.com/xixuejia/fabric-docker-compose-svt`
 
 ## Usage:
 The simplest method to start a network with kafka/zookeeper as ordering service is just issue command `./reset.sh`
